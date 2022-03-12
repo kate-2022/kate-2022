@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java and Python development
 - 🌱 Currently I´m studying how  to better implement GUIs
 - 💞️ I’m looking to collaborate on fascinating topics :)
-- 📫 How to reach me ... let me think..I´ll be back! ;)
+- 📫 How to reach me ... let me think..  I´ll be right back! ;)
 
 <!---
 kate-2022/kate-2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
