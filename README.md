@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kate-2022
-- 👀 I’m passionate abaout Java and Python development!
+- 👀 I’m passionate about Java and Python development!
 - 🌱 Currently I´m studying how  to better implement GUIs
 - 💞️ I’m looking to collaborate on fascinating topics :)
 - 📫 How to reach me ... let me think..  I´ll be right back! ;)
