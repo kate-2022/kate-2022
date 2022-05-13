@@ -2,7 +2,7 @@
 - 👀 I’m passionate about Java and Python development!
 - 🌱 Currently I´m studying how  to better implement GUIs
 - 💞️ I’m looking forward to collaborating on fascinating topics - if there´s time..  :)
-- 📫 How to reach me ... let me think..  I´ll be right back! ;)
+- 📫 How to reach me ...  via FCBforever5@gmx.de    :D
 
 <!---
 kate-2022/kate-2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
